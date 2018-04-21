@@ -3,8 +3,10 @@
   <title>Amigos do Bem</title>
  </head>
  <body>
-<?php
-echo "Teste - Amigos do Bem";
-?>
+    <h1>
+        <?php
+            echo "Teste - Amigos do Bem";
+        ?>
+    </h1>
  </body>
 </html>
