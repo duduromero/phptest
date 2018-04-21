@@ -8,5 +8,6 @@
             echo "Teste - Amigos do Bem";
         ?>
     </h1>
+    <a href="./teste/teste.php">Click here</a>
  </body>
 </html>
