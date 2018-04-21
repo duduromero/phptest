@@ -1,5 +1,5 @@
 <?php
  
-echo "Hellow World - Amigos do Bem";
+echo "Teste - Amigos do Bem";
  
 ?>
